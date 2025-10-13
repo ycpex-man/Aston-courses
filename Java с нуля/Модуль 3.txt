@@ -1,0 +1,28 @@
+							Модуль 3
+
+•	Исключения
+•	Иерархия исключений
+•	Способы обработки исключений
+•	try с ресурсами
+•	Ввод - вывод
+•	Какие основные классы используются для работы с потоками ввода - вывода
+•	Основные правила во время работы с потоками ввода - вывода.
+•	Сериализация
+•	Сборщики проектов(Gradle, Maven)
+•	Этапы сборки в Maven
+•	Где на локальной машине хранятся скачанные зависимости
+•	Git
+•	push, pull, fetch
+•	2 варианта слияния веток(merge, rebase)
+•	cherry pick, squash
+•	patch, stash
+•	reset, revert
+
+
+
+							Литература
+
+•	Исключения в Java (Java Exception) 
+    https://javarush.com/groups/posts/isklyucheniya-java
+•	Тренажер LearnGitBranching 
+    https://learngitbranching.js.org/?locale=ru_RU

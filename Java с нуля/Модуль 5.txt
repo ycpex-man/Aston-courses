@@ -1,0 +1,24 @@
+								Модуль 5
+
+•	SOLID
+•	Паттерны проектирования.
+•	Web
+•	Сетевая модель OSI(поверхностно)
+•	Socket
+•	Протокол HTTP
+•	REST
+•	Servlets, Apache Tomcat
+
+								Литература
+
+•	Пять основных принципов дизайна классов (S.O.L.I.D.) в Java 
+    https://javarush.com/groups/posts/osnovnye-principy-dizajna-klassov-solid-v-java
+•	Сложно о простом. Модель OSI и TCP/IP 
+    https://habr.com/ru/articles/820419/
+•	Протоколы TCP/IP простым языком 
+    https://webonto.ru/protokolyi-tcp-ip-prostyim-yazyikom/
+•	Рефакторинг.Гуру 
+    https://refactoring.guru/ru
+•	REST простым языком 
+    https://medium.com/@andr.ivas12/rest-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%BC-%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC-90a0bca0bc78
+

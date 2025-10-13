@@ -1,0 +1,29 @@
+								Модуль 2
+
+•	Алгоритмы
+•	Big O notation(какие виды временной сложности алгоритмов бывают)
+•	Виды сортировок(отличие quicksort от merge sort)
+•	Generics
+•	Коллекции
+•	Иерархия коллекций
+•	List
+•	Set
+•	Map
+•	Временная сложность для разных операций разных коллекций
+•	Неизменяемые коллекции(создание с помощью List.of(), методы класса Collections)
+•	LinkedHashMap, TreeMap
+•	Интерфейсы Comparable и Comparator
+•	Лямбда выражения, функциональные интерфейсы, Stream API
+
+								Литература
+
+•	Справочник по Java Collections Framework 
+    https://habr.com/ru/articles/237043/
+•	Подробный разбор класса HashMap 
+    https://javarush.com/groups/posts/2496-podrobnihy-razbor-klassa-hashmap
+•	Алгоритмы сортировки в теории и на практике 
+    https://javarush.com/groups/posts/1997-algoritmih-sortirovki-v-teorii-i-na-praktike
+•	Шпаргалка Java программиста 4. Java Stream API 
+    https://webhamster.ru/mytetrashare/index/mtb426/1578962094eafr3wruxs
+•	Библиотека программиста 
+    https://vk.com/wall-54530371_53794

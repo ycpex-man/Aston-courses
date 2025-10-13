@@ -1,0 +1,50 @@
+								Модуль 1
+•	Какие языки программирования бывают.
+•	JVM, JRE, JDK
+•	Области памяти в java
+•	Class Loaders. Виды, для чего нужны
+•	Объект класса Class
+•	Классы и объекты
+•	Структура класса
+•	Поля
+•	Конструкторы(ключевое слово super и this)
+•	Методы(сигнатура методов, перегрузка методов)
+•	Статические и нестатические блоки инициализации
+•	Модификаторы
+•	static, final, abstract
+•	private, protected, public, package private
+•	Варианты установки значений свойств объектов
+•	Поля, конструктор, сеттеры(плюсы, минусы каждого)
+•	Абстрактные классы и интерфейсы(отличия, где что лучше использовать)
+•	Изменяемые и неизменяемые объекты(примеры неизменяемых классов в java, как сделать класс неизменяемым)
+•	Inner и Nested классы
+•	Локальные и анонимные классы
+•	Класс Object
+•	Методы класса Object
+•	Контракт equals - hashcode
+•	Метод clone
+•	Принципы ООП
+•	Наследование и Ассоциация (определение, плюсы-минусы каждого)
+•	Переопределение методов
+•	Статическое и динамическое связывание
+•	Оболочки примитивных типов. Основное API. Особенности сравнения значений.
+•	String
+•	String pool
+•	API
+•	StringBuilder, StringBuffer
+
+
+								Литература
+
+•	Как происходит загрузка классов в JVM 
+    https://javarush.com/groups/posts/646-kak-proiskhodit-zagruzka-klassov-v-jvm
+•	Разница между абстрактными классами и интерфейсами 
+    https://javarush.com/groups/posts/1985-raznica-mezhdu-abstraktnihmi-klassami-i-interfeysami
+•	Отношения между классами. Наследование, композиция и агрегирование 
+    https://javarush.com/groups/posts/1967-otnoshenija-mezhdu-klassami-nasledovanie-kompozicija-i-agregirovanie-
+•	Внутренние и вложенные классы java 
+    https://habr.com/ru/articles/439648/
+•	Различия между ранним и поздним связыванием в Java 
+    https://javarush.com/groups/posts/439-razlichija-mezhdu-rannim-i-pozdnim-svjazihvaniem-v-java
+•	Руководство по String pool в Java 
+    https://topjava.ru/blog/rukovodstvo-po-string-pool-v-java
